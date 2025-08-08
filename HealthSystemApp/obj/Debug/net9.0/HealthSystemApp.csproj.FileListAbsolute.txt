@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\HealthSystemApp\bin\Debug\net9.0\HealthSystemApp.exe
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\HealthSystemApp\bin\Debug\net9.0\HealthSystemApp.deps.json
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\HealthSystemApp\bin\Debug\net9.0\HealthSystemApp.runtimeconfig.json
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\HealthSystemApp\bin\Debug\net9.0\HealthSystemApp.dll
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\HealthSystemApp\bin\Debug\net9.0\HealthSystemApp.pdb
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\HealthSystemApp\obj\Debug\net9.0\HealthSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\HealthSystemApp\obj\Debug\net9.0\HealthSystemApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\HealthSystemApp\obj\Debug\net9.0\HealthSystemApp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\HealthSystemApp\obj\Debug\net9.0\HealthSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\HealthSystemApp\obj\Debug\net9.0\HealthSystemApp.sourcelink.json
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\HealthSystemApp\obj\Debug\net9.0\HealthSystemApp.dll
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\HealthSystemApp\obj\Debug\net9.0\refint\HealthSystemApp.dll
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\HealthSystemApp\obj\Debug\net9.0\HealthSystemApp.pdb
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\HealthSystemApp\obj\Debug\net9.0\HealthSystemApp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\HealthSystemApp\obj\Debug\net9.0\ref\HealthSystemApp.dll
