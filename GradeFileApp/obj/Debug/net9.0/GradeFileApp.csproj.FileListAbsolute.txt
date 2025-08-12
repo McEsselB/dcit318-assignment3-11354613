@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\GradeFileApp\bin\Debug\net9.0\GradeFileApp.exe
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\GradeFileApp\bin\Debug\net9.0\GradeFileApp.deps.json
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\GradeFileApp\bin\Debug\net9.0\GradeFileApp.runtimeconfig.json
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\GradeFileApp\bin\Debug\net9.0\GradeFileApp.dll
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\GradeFileApp\bin\Debug\net9.0\GradeFileApp.pdb
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\GradeFileApp\obj\Debug\net9.0\GradeFileApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\GradeFileApp\obj\Debug\net9.0\GradeFileApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\GradeFileApp\obj\Debug\net9.0\GradeFileApp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\GradeFileApp\obj\Debug\net9.0\GradeFileApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\GradeFileApp\obj\Debug\net9.0\GradeFileApp.sourcelink.json
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\GradeFileApp\obj\Debug\net9.0\GradeFileApp.dll
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\GradeFileApp\obj\Debug\net9.0\refint\GradeFileApp.dll
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\GradeFileApp\obj\Debug\net9.0\GradeFileApp.pdb
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\GradeFileApp\obj\Debug\net9.0\GradeFileApp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment3-11354613\GradeFileApp\obj\Debug\net9.0\ref\GradeFileApp.dll
