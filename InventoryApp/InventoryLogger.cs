@@ -1,0 +1,64 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Text.Json;
+
+public class InventoryLogger<T> where T : IInventoryEntity
+{
+    private List<T> _log = new();
+    private string _filePath;
+
+    public InventoryLogger(string filePath)
+    {
+        _filePath = filePath;
+    }
+
+    public void Add(T item)
+    {
+        _log.Add(item);
+    }
+
+    public List<T> GetAll()
+    {
+        return new List<T>(_log);
+    }
+
+    public void SaveToFile()
+    {
+        try
+        {
+            using (FileStream fs = new FileStream(_filePath, FileMode.Create))
+            {
+                JsonSerializer.Serialize(fs, _log);
+            }
+            Console.WriteLine("Data saved successfully.");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Error saving to file: " + ex.Message);
+        }
+    }
+
+    public void LoadFromFile()
+    {
+        try
+        {
+            if (!File.Exists(_filePath))
+            {
+                Console.WriteLine("No file found to load data.");
+                return;
+            }
+
+            using (FileStream fs = new FileStream(_filePath, FileMode.Open))
+            {
+                var items = JsonSerializer.Deserialize<List<T>>(fs);
+                _log = items ?? new List<T>();
+            }
+            Console.WriteLine("Data loaded successfully.");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Error loading from file: " + ex.Message);
+        }
+    }
+}
